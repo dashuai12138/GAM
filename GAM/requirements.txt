@@ -1,8 +1,0 @@
-# Tested with Python 3.11.15. Install the appropriate PyTorch wheel first.
-torch==2.10.0
-numpy==2.4.6
-ase==3.29.0
-vesin==0.6.1
-tensorboard==2.21.0
-tqdm==4.70.0
-pytest==9.1.1

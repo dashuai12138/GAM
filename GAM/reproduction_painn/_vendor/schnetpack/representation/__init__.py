@@ -1,1 +1,0 @@
-"""Vendored SchNetPack representation sources."""
